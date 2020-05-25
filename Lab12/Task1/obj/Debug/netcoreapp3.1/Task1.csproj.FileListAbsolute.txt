@@ -1,0 +1,11 @@
+E:\HSE\Programs\Lab12\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+E:\HSE\Programs\Lab12\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+E:\HSE\Programs\Lab12\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+E:\HSE\Programs\Lab12\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+E:\HSE\Programs\Lab12\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+E:\HSE\Programs\Lab12\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+E:\HSE\Programs\Lab12\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
+E:\HSE\Programs\Lab12\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+E:\HSE\Programs\Lab12\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+E:\HSE\Programs\Lab12\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+E:\HSE\Programs\Lab12\Task1\obj\Debug\netcoreapp3.1\Task1.pdb

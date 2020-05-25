@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task1.Country" Collapsed="true">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAgAAAAAgAAAAAAAAAAEAAAAAAAAAAAEBAA=</HashCode>
+      <FileName>Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Kingdom" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Monarchy" Collapsed="true">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAEgAA=</HashCode>
+      <FileName>Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Republic" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgAAAAAAAAEAAA=</HashCode>
+      <FileName>Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Input" Collapsed="true">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.MyCollection&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAACAABhBAAACAJAQAAAAAABAEoAAAAAAUABA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Task1.Node1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAABAAAAAAAAAAAAAEAABAAAAAQAAAEAAA=</HashCode>
+      <FileName>Node1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Task1.Node2" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAACAAAAAAAAAAAAAAAAAAABAAEAAQAAAEAAA=</HashCode>
+      <FileName>Node2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Task1.Program" Collapsed="true">
+    <Position X="15.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAwAAAABAAIAAAAAQAAAAABAICAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Tree" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgBAAAACAAAAAAAEACBAAAAAAAABIACACAAAAEAAA=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
