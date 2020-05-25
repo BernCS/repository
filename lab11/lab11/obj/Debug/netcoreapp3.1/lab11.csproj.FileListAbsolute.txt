@@ -1,0 +1,11 @@
+E:\HSE\Programs\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.exe
+E:\HSE\Programs\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.deps.json
+E:\HSE\Programs\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.json
+E:\HSE\Programs\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.dev.json
+E:\HSE\Programs\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.dll
+E:\HSE\Programs\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.pdb
+E:\HSE\Programs\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.csprojAssemblyReference.cache
+E:\HSE\Programs\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfoInputs.cache
+E:\HSE\Programs\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfo.cs
+E:\HSE\Programs\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.dll
+E:\HSE\Programs\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.pdb
