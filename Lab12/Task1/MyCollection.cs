@@ -13,10 +13,12 @@ namespace Task1
         public int Count;
 
         private int position = -1;
+        private MyCollection<T> current;
 
         public MyCollection(T data = default(T))
         {
             Count = 1;
+            current = this;
             Data = data;
             Next = null;
             Previous = null;
@@ -25,6 +27,7 @@ namespace Task1
         public MyCollection(int capacity)
         {
             Count = capacity;
+            current = this;
             if (capacity == 0)
             {
                 return;
@@ -38,6 +41,7 @@ namespace Task1
         public MyCollection(MyCollection<T> myCollection)
         {
             Count = myCollection.Count;
+            current = this;
             if (myCollection == null)
             {
                 return;
@@ -121,14 +125,14 @@ namespace Task1
             return myCollection;
         }
 
-        private MyCollection<T> Get(int index)
+        /*private MyCollection<T> Get(int index)
         {
             if (index == 0)
                 return this;
             if (Next == null)
                 return null;
             return Next.Get(index - 1);
-        }
+        }*/
 
         public int Contains(T data, int index = 0)
         {
@@ -164,7 +168,7 @@ namespace Task1
         {
             get
             {
-                return this.Get(position).Data;
+                return current.Data;
             }
         }
 
@@ -172,18 +176,23 @@ namespace Task1
 
         public void Reset()
         {
+            current = this;
             position = -1;
         }
 
         public bool MoveNext()
         {
-            if (position + 1 >= Count)
+            if (current.Next == null)
             {
                 Reset();
                 return false;
             }
             else
             {
+                if (position > -1)
+                {
+                    current = current.Next;
+                }
                 position++;
                 return true;
             }
